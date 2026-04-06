@@ -26,6 +26,9 @@ A multi-page financial dashboard built for a real church board presentation. Cov
 > Tools: Power BI · DAX · Power Query
 > [View project →](https://github.com/kwida94/Church_Giving_Dashboard)
 
+![Giving Overview](assets/church-giving-overview.png)
+![Attendance & Giving](assets/church-attendance-giving.png)
+
 ---
 
 ### Bank Customer Churn Analysis (Python)
@@ -40,6 +43,9 @@ Cleaned and analyzed 39,000+ inspection records from a city open data portal usi
 > Tools: Excel · Power Query · Pivot Tables
 > [View project →](https://github.com/kwida94/Chicago-food-inspection)
 
+
+![Inspection Dashboard](assets/inspection-dashboard.png)
+
 ---
 
 ### Music Store SQL Analysis
@@ -53,6 +59,8 @@ Explored a relational music store database to answer real business questions —
 Combined SQL queries and an Excel dashboard to analyze 4 years of retail sales data across regions, products, and customers. Live Tableau dashboard included.
 > Tools: Excel · SQL · Tableau
 > [View Tableau dashboard →](https://public.tableau.com/app/profile/karl.wida/viz/SuperstorePortfolio_17606434989400/Dashboard1?publish=yes) · [View project →](https://github.com/kwida94/Superstore-Portfolio-Project)
+
+![Superstore Dashboard](assets/superstoredashboard.png)
 
 ---
 
